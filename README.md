@@ -1,4 +1,4 @@
-# Useful-Code---Data-manipulation
+# Useful-Code-Data-manipulationR
 These are codes to manipulate your data to get it ready for analysis
 
 **About the files**
